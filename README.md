@@ -17,7 +17,7 @@ Nobody likes moments. The 20 million impressions are from people accidentally cl
 
 # Installation
 
-Install [Tampermonkey] (https://tampermonkey.net/) (Chrome) or [GreaseMonkey] (http://www.greasespot.net/) (Firefox) and create a new user script. Then copy the contents of seconds.js into the new script. Make sure Tampermonkey is enabled, and the script will run.
+Install [Tampermonkey] (https://tampermonkey.net/) (Chrome) or [GreaseMonkey] (http://www.greasespot.net/) (Firefox) and create a new user script. Then copy the contents of seconds.js into the new script. Make sure Tampermonkey or Greasemonkey is enabled, and the script will run.
 
 # License 
 
