@@ -15,6 +15,10 @@ Nobody likes moments. The 20 million impressions are from people accidentally cl
 
 ![After](http://i.imgur.com/N4A3lko.png)
 
+# Installation
+
+Install Tampermonkey or GreaseMonkey and create a new user script. Then copy the contents of seconds.js into the new script. Make sure Tampermonkey is enabled, and the script will run.
+
 # License 
 
 Public domain or MIT. Do whatever you like. Feel free to redistribute this under any license you wish.
