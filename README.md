@@ -13,7 +13,7 @@ Nobody likes moments. The 20 million impressions are from people accidentally cl
 
 **After**
 
-[[http://i.imgur.com/N4A3lko.png]]
+![After](http://i.imgur.com/N4A3lko.png)
 
 # License 
 
