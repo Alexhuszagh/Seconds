@@ -28,8 +28,8 @@
 // @version         0.0.1
 // @author          Alex Huszagh <https://github.com/Alexhuszagh/>
 // @description     Remove Moments from Twitter.
-// @domain          http://twitter.com/
-// @match           http://twitter.com/*
+// @domain          https://twitter.com/
+// @match           https://twitter.com/*
 // @Copyright       2016+, Alex Huszagh
 // @run-at          document-idle
 // ==/UserScript==
