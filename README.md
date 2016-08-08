@@ -9,7 +9,7 @@ Nobody likes moments. The 20 million impressions are from people accidentally cl
 
 **Before**
 
-[[http://i.imgur.com/dLpSI2R.png]]
+![Before](http://i.imgur.com/dLpSI2R.png)
 
 **After**
 
