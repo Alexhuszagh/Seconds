@@ -21,4 +21,4 @@ Install [Tampermonkey] (https://tampermonkey.net/) (Chrome) or [GreaseMonkey] (h
 
 # License 
 
-Public domain or MIT. Do whatever you like. Feel free to redistribute this under any license you wish.
+Public domain or MIT. Do whatever you like. Feel free to redistribute this under any license you wish, with or without attribution.
